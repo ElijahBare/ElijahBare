@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ElijahBare, an aspiring coder from NC
+- 👀 I’m interested in creating frameworks and cybersecurity
+- 📫 You can reach me on discord at EBS#2574
